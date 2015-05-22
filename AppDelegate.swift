@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  test-ios
 //
-//  Created by 青山 虎生 on 2015/05/22.
-//  Copyright (c) 2015年 tro8. All rights reserved.
+//  Created by tro8 on 2015/05/22.
+//  Copyright (c) 2015 tro8. All rights reserved.
 //
 
 import UIKit
